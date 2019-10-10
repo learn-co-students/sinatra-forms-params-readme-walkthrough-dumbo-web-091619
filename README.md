@@ -7,7 +7,7 @@ In this codealong lesson, we'll create a new HTML form and connect it to a Sinat
 ## Objectives
 
 1. Build a basic HTML form
-2. Connect an HTML form to a Sinatra application via the `method` and `action` attributes
+2. Connect a HTML form to a Sinatra application via the `method` and `action` attributes
 3. Build a `POST` route in Sinatra's application controller to accept data from a form via params.
 4. Define params as a Ruby hash containing form data.
 
